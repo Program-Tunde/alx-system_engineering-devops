@@ -1,2 +1,2 @@
-#!/bin/bah
-cd root or cd ..
+#!/bin/bash
+mkdir /tmp/my_first_directory
